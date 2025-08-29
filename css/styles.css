@@ -1,0 +1,14 @@
+body {
+  background: blueviolet;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+a {
+  color: white;
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+}
